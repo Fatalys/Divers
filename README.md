@@ -5,7 +5,7 @@ Se connecte à Gmail pour envoyer des emails de manière automatique (ne fonctio
 ## Asciimage
 Transforme une image en caractère ascii, sortie dans un fichier texte <br/>
 
-A normal paragraph ending with ``::`` will flow and be word-wrapped::
+A normal paragraph ending with ``::`` will flow and be word-wrapped:
 
     If the next paragraph is indented by four or more spaces, it will be monospaced text, without flow (or even wrapping in some non-print cases.)
 
