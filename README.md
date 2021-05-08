@@ -4,4 +4,5 @@ Des programmes inclassables faisant des choses plus ou moins intéressantes
 Se connecte à Gmail pour envoyer des emails de manière automatique (ne fonctionne qu'avec Gmail français)
 ## Asciimage
 Transforme une image en caractère ascii, sortie dans un fichier texte <br/>
-``Je tente un truc :: C'est vrai ``
+``Je tente un truc ::
+C'est vrai ``
